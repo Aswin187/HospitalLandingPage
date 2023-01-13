@@ -4,10 +4,7 @@
 
 ## [Live Link](https://hospital-website-landing-page.vercel.app/)
 
-## Snap  🤖...
 
-
-![App Screenshot](./src/Images/preview.png)
 
 
 
